@@ -33,14 +33,6 @@ npm run dev
   - Özeti doğrular, imzayı gönderenin açık anahtarıyla doğrular.
 - React arayüzü ile kayıt/giriş, mesaj gönderme ve gelen kutusu görüntüleme.
 
-## Endpoints (özet)
-- `POST /api/auth/register` — kullanıcı oluşturur.
-- `POST /api/auth/login` — JWT döner.
-- `POST /api/messages` — güvenli mesaj gönderir (Bearer token gerekli).
-- `GET /api/messages/inbox` — çözümlenmiş içerik ve doğrulama durumlarıyla gelen kutusu.
 
-## Notlar
-- Üretimde özel anahtarlar sunucu tarafında tutulmamalı; HSM veya istemci yanlı saklama tercih edin.
-- TLS zorunlu tutulmalıdır (`appsettings` yerine barındırma ortamında gizli yönetimi yapın).
-- Node 20.19+ veya 22.12+ Vite için önerilir.
+
 
