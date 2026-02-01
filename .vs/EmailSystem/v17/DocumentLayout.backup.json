@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\emailsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|c:\\users\\merve\\desktop\\emailsystem\\emailsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|solutionrelative:emailsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|c:\\users\\merve\\desktop\\emailsystem\\emailsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|solutionrelative:emailsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|c:\\users\\merve\\desktop\\emailsystem\\emailsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B4AFD3-AF3D-4E70-A123-241F8FE503B3}|EmailSystem.Api\\EmailSystem.Api.csproj|solutionrelative:emailsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\appsettings.json*",
+              "RelativeToolTip": "EmailSystem.Api\\appsettings.json*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAADyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T10:07:21.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EmailSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\Program.cs",
+              "RelativeToolTip": "EmailSystem.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:06:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmailSystem.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\emailsystem\\EmailSystem.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmailSystem.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:06:22.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
